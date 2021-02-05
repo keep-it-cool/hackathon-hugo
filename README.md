@@ -1,4 +1,4 @@
-# Kangaroute first prototype
+# Kangaroute first prototype [ARCHIVED]
 
 * Static website in Hugo
 * Deployed on Netlify
